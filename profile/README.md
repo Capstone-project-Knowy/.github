@@ -48,20 +48,6 @@ Repository for Knowy for ND, ML and CC side:
 
 Created by the collaboration of:
 
-(ML) M319D4KX2121 – Amanda Bendicta Sembiring [Linkedin](https://www.linkedin.com/in/amanda-bendicta-sembiring)
-
-(ML) M009D4KY2413 – Marcel Adila Jufai [Linkedin](https://www.linkedin.com/in/marcel-jufai-256a7b2b5/)
-
-(ML) M319D4KX2538 – Vita Sariani Br Sembiring [Linkedin](http://linkedin.com/in/vita-sariani-959207222)
-
-(CC) C009D4KY0719 – Doni Julyano Risdianto [Linkedin](https://www.linkedin.com/in/dnjlynrsdnt/)
-
-(CC) C284D4KY0759 – Muhammad Azzaky Rizki Firdausi [Linkedin](https://www.linkedin.com/in/azzaky-rizki/)
-
-(MD) A009D4KY4299 – Arief Firmansyah [Linkedin](https://www.linkedin.com/in/arief-firmansyah-55084a22b/)
-
-(MD) A253D4KY4198 – Arvelio Renathan Budisantoso[Linkedin](https://www.linkedin.com/in/arveliorenathan/)
-
 
 | Number  | Name                       | Role  | ID Bangkit | Linkedin |
 |:-------:|:------------------------------|:-----:|:-----------|:---------|
