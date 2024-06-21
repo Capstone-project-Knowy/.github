@@ -1,10 +1,10 @@
-# Knowy: Unlock Your Curiosity with Knowy
+# Bangkit Capstone Product 2024
 
 Did you know? That there's a lot of person feeling lost abd doubt about their chosen major in university. In fact, Irene Guntut from Integrity Development Flexibility. Stated that 87% of students experience doubts about their chosen major. More then half of those students feel this. Dr. Suyanto stated that the causes of this confusion and doubt in the students is that they lack of understanding themselves. He suggested the use of career psychology test to helps student better understanding their Interest and talents 
 
 We want to introduce our Bangkit Capstone Product.
 
-Knowy Unlock Your Curiosity with Knowy
+# Knowy Unlock Your Curiosity with Knowy
 
 ![KnowyLogo](https://github.com/MarcelTRG/Git-Test/blob/master/Asset/Logo%20Knowy.png)
 
@@ -17,6 +17,20 @@ You can try our Application using link below
 
 [>> Application Link](https://drive.google.com/drive/folders/1iX5iCcO-ZGvUTxLpqHYhFn1i4EX6wGdX?usp=sharing)
 
+# Guiude to use the APP
+
+1). Download and Install the Knowy Application
+
+2). Users are required to log in first before accessing the application. If they don't have an account, users can register an account first
+
+3). The main features can be accessed if the user has completed 5 tests from the OCEAN test and 5 tests from the Aptitude Test
+
+4). To start the test, user can press the "Start Test" button and the user can answer the test based on the questions given
+
+5). To have a discussion user can go to the Forum Discussion feature by pressing the Forum Discussion button on the Navigation Bar
+
+6). To create a discussion user can press the button with the pencil icon to create a discussion, then users filled in the head topic and description of what will be discussed in that topic
+
 # Repository
 
 Repository for Knowy for ND, ML and CC side:
@@ -28,7 +42,7 @@ Repository for Knowy for ND, ML and CC side:
 [>> Cloud Computing Side](https://github.com/Capstone-project-Knowy/new-cloud)
 
 
-# =================================================================================================================
+# ======================================================================================
 
 # Creator of Knowy
 
