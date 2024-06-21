@@ -17,7 +17,7 @@ You can try our Application using link below
 
 [>> Application Link](https://drive.google.com/drive/folders/1iX5iCcO-ZGvUTxLpqHYhFn1i4EX6wGdX?usp=sharing)
 
-# Guiude to use the APP
+# Guide to use the APP
 
 1). Download and Install the Knowy Application
 
@@ -61,3 +61,15 @@ Created by the collaboration of:
 (MD) A009D4KY4299 – Arief Firmansyah [Linkedin](https://www.linkedin.com/in/arief-firmansyah-55084a22b/)
 
 (MD) A253D4KY4198 – Arvelio Renathan Budisantoso[Linkedin](https://www.linkedin.com/in/arveliorenathan/)
+
+
+| Number  | Name                       | Role  | ID Bangkit | Linkedin |
+|:-------:|:------------------------------|:-----:|:-----------|:---------|
+|     1   | Amanda Bendicta Sembiring     |   ML  |M319D4KX2121|[Linkedin](https://www.linkedin.com/in/amanda-bendicta-sembiring)|
+|     2   | Marcel Adila Jufai            |   ML  |M009D4KY2413|[Linkedin](https://www.linkedin.com/in/marcel-jufai-256a7b2b5/)|
+|     3   | Vita Sariani Br Sembiring     |   ML  |M319D4KX2538|[Linkedin](http://linkedin.com/in/vita-sariani-959207222)|
+|     4   | Doni Julyano Risdianto        |   CC  |C009D4KY0719|[Linkedin](https://www.linkedin.com/in/dnjlynrsdnt/)|
+|     5   | Muhammad Azzaky Rizki Firdausi|   CC  |C284D4KY0759|[Linkedin](https://www.linkedin.com/in/azzaky-rizki/)|
+|     6   | Arief Firmansyah              |   MD  |A009D4KY4299|[Linkedin](https://www.linkedin.com/in/arief-firmansyah-55084a22b/)|
+|     7   | Arvelio Renathan Budisantoso              |   MD  |A253D4KY4198|[Linkedin](https://www.linkedin.com/in/arveliorenathan/)|
+|
